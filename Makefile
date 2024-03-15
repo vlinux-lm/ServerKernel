@@ -2,8 +2,8 @@
 VERSION = 6
 PATCHLEVEL = 8
 SUBLEVEL = 0
-EXTRAVERSION =
-NAME = Hurr durr I'ma ninja sloth
+EXTRAVERSION = @VLinux
+NAME = VLinux Kernel Codename "Pluto"
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
